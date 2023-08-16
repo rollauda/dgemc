@@ -12,6 +12,8 @@ cd /Users/rollandauda/Github/philotg
 cd /Users/rollandauda/Github/hlpt
 
 cd /Users/rollandauda/Github/cav1
+
+cd /Users/rollandauda/Github/dgemc
 ```
 
 **Construire** :
