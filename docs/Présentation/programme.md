@@ -5,7 +5,7 @@ parent: Présentation de l'année
 nav_order: 2
 published: true
 ---
-## Programme de l'année
+# Programme de l'année
 
 L'année sera organisée autour de deux grands chapitres, au sein desquels nous aurons des leçons et des activités.
 
