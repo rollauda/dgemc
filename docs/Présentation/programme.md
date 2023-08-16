@@ -5,9 +5,9 @@ parent: Présentation de l'année
 nav_order: 2
 published: true
 ---
-# Programme de l'année
+## Programme de l'année
 
-L'année sera organisée autour de deux grands chapitres, au sein desquels nous aurons des leçons et des activités.
+L'année sera organisée en deux grands chapitres, au sein desquels nous aurons des leçons et des activités.
 
 - **Chapitre 1 : Qu'est-ce que le droit ?**
 - **Chapitre 2 : Questions juridiques contemporaines**
