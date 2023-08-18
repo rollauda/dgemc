@@ -5,15 +5,16 @@ nav_order: 17
 has_children: false
 published: true
 ---
-## Cahiers de texte Première Spécialité CAV 2023-2024
+## Cahier de texte Option DGEMC 2023-2024
 
 | Semaine     | Contenu     | Travaux |
 | :------------------- | :-------------- | :-------- |
-| S1   | [Présentation de l'année](../../docs/Présentation/presentation.html) | ...     |
-| S2   | ...     | ...     |
-| S3   | ...     | ...     |
-| S4   | ...     | ...     |
-| S5   | ...     | ...     |
-| S6   | ...     | ...     |
-| S7   | ...     | ...     |
-| Vacances d'automne | ...  | ...     |
+| 01/09  | [Présentation de l'année](../cdt/cdt.html) | ...     |
+| 04/09   | ...     | ...     |
+| 11/09   | ...     | ...     |
+| 18/09   | ...     | ...     |
+| 25/09   | ...     | ...     |
+| 02/10   | ...     | ...     |
+| 09/10   | ...     | ...     |
+| 16/10   | ...     | ...     |
+| Vacances d'automne | ...  | ...  |
