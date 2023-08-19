@@ -10,11 +10,12 @@ published: true
 ### 2.2. La règle morale peut-elle remplacer la règle de droit ?
 Explication du second texte de Henri Mazeaud
 
- | 1. H. Mazeaud pense-t-il qu’une société pourrait fonctionner seulement à partir de règles morales ? |   
- | 2. Comme distingue-t-il les règles de droit des règles morales ?  |  
- | 3. Pour chacun des trois arguments du texte, chercher un exemple pour l’illustrer. | 
-
----
+{: .nouveau-title }
+> QUESTIONS
+>
+> 1. H. Mazeaud pense-t-il qu’une société pourrait fonctionner seulement à partir de règles morales ?   
+> 2. Comme distingue-t-il les règles de droit des règles morales ?  
+> 3. Pour chacun des trois arguments du texte, chercher un exemple pour l’illustrer.
 
 > « Il y a deux disciplines qui proposent aux hommes des règles de conduite ; il y a la morale, et il y a le droit. Alors une question se pose : est-ce que la morale n’est pas une règle suffisante, est-ce qu’il est nécessaire d’avoir, à côté de la règle morale, une règle de droit ? C’est nécessaire, parce que la règle morale ne peut à elle seule, gouverner une société, et cela pour trois raisons :  
 > 1° - La règle morale n’a qu’une sanction d’ordre intérieur, qu’une sanction morale, sanction qui, malheureusement, n’est pas de nature à effrayer beaucoup de personnes, à les empêcher d’enfreindre la règle, et à les obliger à réparer les conséquences de leurs infractions à cette règle. Il faut donc qu’une autre règle - et c’est la règle de droit - vienne créer une sanction plus efficace, qui, elle, contraindra matériellement les individus à ne pas faire ce qui est défendu, une sanction qui frappera ceux qui ont enfreint la règle et qui les obligera à réparer les conséquences des actes contraires à la règle. Une sanction juridique est donc indispensable ; on ne peut pas se contenter, pour organiser la vie en société, d’une sanction d’ordre moral.  

@@ -9,7 +9,7 @@ published: true
 
 | Semaine     | Contenu     | Travaux |
 | :------------------- | :-------------- | :-------- |
-| 01/09  | [Présentation de l'année](../cdt/cdt.html) | ...     |
+| 01/09  | [Présentation de l'année](../Présentation/presentation.html) | ...     |
 | 04/09   | ...     | ...     |
 | 11/09   | ...     | ...     |
 | 18/09   | ...     | ...     |

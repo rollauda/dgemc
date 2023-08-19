@@ -10,9 +10,10 @@ published: true
 ### 2.3. Comment la Justice fait-elle respecter le Droit ?
 Explication du troisième texte de Henri Mazeaud
 
- | Dans cet extrait (complémentaire du second texte), H. Mazeaud détaille les différentes sanctions juridiques (les actions coercitives de la Justice, institution d’État, pour obliger à obéir à la loi). Sous forme de carte mentale, synthétisez ces différents types de sanctions. |  
-
----
+{: .nouveau-title }
+> QUESTION
+>
+> Dans cet extrait (complémentaire du second texte), H. Mazeaud détaille les différentes sanctions juridiques (les actions coercitives de la Justice, institution d’État, pour obliger à obéir à la loi). Sous forme de carte mentale, synthétisez ces différents types de sanctions.
 
 > « La règle morale n’a qu’une sanction d’ordre intérieur, qu’une sanction morale, sanction qui, malheureusement, n’est pas de nature à effrayer beaucoup de personnes, à les empêcher d’enfreindre la règle, et à les obliger à réparer les conséquences de leurs infractions à cette règle. Il faut donc qu’une autre règle - et c’est la règle de droit - vienne créer une sanction plus efficace, qui, elle, contraindra matériellement les individus à ne pas faire ce qui est défendu, une sanction qui frappera ceux qui ont enfreint la règle et qui les obligera à réparer les conséquences des actes contraires à la règle.  
 > Cette contrainte, qui est ainsi la caractéristique essentielle de la règle de droit, et qui différencie la règle de droit de la règle morale, se manifeste, pour nous en tenir au droit civil, sous trois formes essen­tielles :  

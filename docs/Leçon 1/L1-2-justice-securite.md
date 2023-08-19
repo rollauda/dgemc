@@ -10,11 +10,12 @@ published: true
 ### 2.1. Le droit assure la justice et la sécurité
 Explication du premier texte de Henri Mazeaud (**voir le complément page suivante**)
 
- | 1. Expliquez ce qu’est cette “justice” que la règle de droit fait régner | 
-| 2. Expliquez ce qu’est cette “sécurité” que la règle de droit donne |  
- | 3. Pourquoi l’auteur affirme-t-il au début du texte que, « pour que la vie en société soit possible (…) la nécessité d’une règle de conduite est incontestable. » ? Êtes-vous d’accord avec cela ? | 
-
----
+{: .nouveau-title }
+> QUESTIONS
+>
+> 1. Expliquez ce qu’est cette “justice” que la règle de droit fait régner 
+> 2. Expliquez ce qu’est cette “sécurité” que la règle de droit donne 
+> 3. Pourquoi l’auteur affirme-t-il au début du texte que, « pour que la vie en société soit possible (…) la nécessité d’une règle de conduite est incontestable. » ? Êtes-vous d’accord avec cela ?
 
 > « Il est indispensable, pour que la vie en société soit possible, qu’il existe une règle, une règle de conduite. Si chacun de nous suivait son bon plaisir, chacun deviendrait un ennemi pour son voisin. Mais si la nécessité d’une règle de conduite est incontestable, il est par contre plus difficile de préciser à quels besoins répond exactement cette règle de conduite.  
 > En réalité, cette règle s’impose à nous pour deux raisons ; elle s’impose, d’une part pour faire régner la justice, et, d’autre part, pour donner la sécurité.  

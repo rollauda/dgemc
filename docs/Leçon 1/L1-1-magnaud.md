@@ -14,4 +14,7 @@ published: true
 |  En 1994, le code pénal reconnaît officiellement l'« état de nécessité ». Le 2 février 1997, Annick Grippon vole de la viande dans un supermarché de Niort afin de nourrir ses deux enfants, de 3 et 19 ans. D’abord relaxée par la juge, qui invoque l’état de nécessité, elle est condamnée en appel à 3 500 francs d’amende avec sursis et cinq ans de mise à l’épreuve. L’affaire avait défrayé la chronique à l’époque. Depuis un siècle « l’état de nécessité » n’avait pas été invoqué par la justice. Annick était la première personne à en bénéficier depuis Louise Ménard en 1898.  |  
 
 
-**-> Lire les textes du 1.2 de la fiche-leçon et répondre aux questions**.
+{: .nouveau-title }
+> À FAIRE
+>
+> Lire les [textes du 1.2](../Leçon%201/L1-1-textes.html) de la fiche-leçon et répondre aux questions.

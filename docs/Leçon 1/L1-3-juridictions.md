@@ -22,11 +22,20 @@ published: true
 
 ### Droit civil et pénal
 
-| Le droit civil s’occupe de régler les différends entre les particuliers.  Il s’agit d’une branche du droit privé qui résout les affaires telles que le mariage, le divorce, les contrats de vente et de bail, l’héritage, etc. |
+{: .important-title }
+> DROIT CIVIL
+>
+> Le **droit civil** s’occupe de régler les différends entre les particuliers.  Il s’agit d’une branche du **droit privé** qui résout les affaires telles que le mariage, le divorce, les contrats de vente et de bail, l’héritage, etc.
 
-| Le droit pénal est une branche du droit public. Il a pour objet le maintien de l’ordre public et la sécurité des personnes et des biens. C'est un droit répressif, qui vient punir les actions répréhensibles, appelées en langage juridique des infractions. |
+{: .nouveau-title }
+> DROIT PÉNAL
+>
+> Le **droit pénal** est une branche du **droit public**. Il a pour objet le maintien de l’ordre public et la sécurité des personnes et des biens. C'est un droit répressif, qui vient punir les actions répréhensibles, appelées en langage juridique des infractions.
 
-| Les juridictions de premier degré sont les premières à rendre une décision. En cas de désaccord avec la décision rendue, une affaire peut être jugée une seconde fois par une juridiction de second degré : cour d'appel ou cour d'assises d'appel. Si la décision rendue par les juridictions de second degré n'est pas satisfaisante, il possible de se pourvoir en cassation, c'est-à-dire porter l'affaire devant la cour de cassation, qui ne juge pas le fond de l'affaire, mais la forme : elle vérifie si la décision judiciaire respecte le droit. | 
+{: .highlight-title }
+> APPEL ET CASSATION
+>
+> Les **juridictions de premier degré** sont les premières à rendre une décision. En cas de désaccord avec la décision rendue, une affaire peut être jugée une seconde fois par une **juridiction de second degré** : **cour d'appel** ou cour d'assises d'appel. Si la décision rendue par les juridictions de second degré n'est pas satisfaisante, il possible de **se pourvoir en cassation**, c'est-à-dire porter l'affaire devant la cour de cassation, qui ne juge pas le fond de l'affaire, mais la forme : elle vérifie si la décision judiciaire respecte le droit.
 
 |  ![schema](../../../dgemc/assets/img/schemadroit.png)    |
 
