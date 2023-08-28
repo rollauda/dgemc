@@ -7,16 +7,6 @@ nav_order: 1
 published: true
 ---
 ## Introduction
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    Sommaire
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
 
 ### Qu'est-ce que le droit ?
 Ouvrir la [carte mentale sur le droit](https://rollauda.github.io/schemas/cartes/droit.html){:target="_blank" }
