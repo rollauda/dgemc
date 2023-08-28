@@ -6,8 +6,17 @@ has_children: false
 nav_order: 1
 published: true
 ---
-
 ## Introduction
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Sommaire
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ### Qu'est-ce que le droit ?
 Ouvrir la [carte mentale sur le droit](https://rollauda.github.io/schemas/cartes/droit.html){:target="_blank" }
@@ -16,6 +25,9 @@ Ouvrir la [carte mentale sur le droit](https://rollauda.github.io/schemas/cartes
 Ouvrir la [carte mentale sur la justice](https://rollauda.github.io/schemas/cartes/justice.html){:target="_blank" }
 
 ### Compléments
+
+{: .highlight }
+À visionner à la maison
 
 #### La justice et le Droit
 

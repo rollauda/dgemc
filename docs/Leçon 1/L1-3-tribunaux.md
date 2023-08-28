@@ -8,7 +8,6 @@ nav_order: 1
 published: true
 ---
 ### 3.1. Trois tribunaux différents
-
 {: .no_toc }
 
 <details open markdown="block">

@@ -7,6 +7,6 @@ grand_parent: Chapitre 1 Leçon 1
 nav_order: 6
 published: false
 ---
-## Carte mentale : sanctions juridiques
+## Corrigé de la carte mentale
 
-`markmap`
+Ouvrir la [carte mentale sur les sanctions juridiques](https://rollauda.github.io/schemas/cartes/sanctions-juridiques.html){:target="_blank" }

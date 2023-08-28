@@ -8,7 +8,6 @@ nav_order: 2
 published: true
 ---
 ## 3.2. Les juridictions françaises
-
 {: .no_toc }
 
 <details open markdown="block">
