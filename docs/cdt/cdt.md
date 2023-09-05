@@ -10,7 +10,7 @@ published: true
 | Semaine     | Contenu     | Travaux |
 | :------------------- | :-------------- | :-------- |
 | 01/09  | [Présentation de l'année](../Présentation/presentation.html) | ...     |
-| 04/09   | ...     | ...     |
+| 04/09   | [C1-L1 Introduction](../Leçon%201/L1-intro.md) <br> [C1-L1 1](../Leçon%201/L1-1-affaires.md)    | ...     |
 | 11/09   | ...     | ...     |
 | 18/09   | ...     | ...     |
 | 25/09   | ...     | ...     |
