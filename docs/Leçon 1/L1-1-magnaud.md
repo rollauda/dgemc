@@ -16,4 +16,6 @@ published: true
 >
 > Lire les [textes du 1.2](../Leçon%201/L1-1-textes.html) de la fiche-leçon et répondre aux questions.
 
+---
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YYZFO0z2tyk?si=7IUZyJklHNvrWFai" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
