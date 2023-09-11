@@ -1,13 +1,13 @@
 ---
 layout: default
-title: 2.3. Sanctions pénales
+title: 3.3. Sanctions pénales
 # mettre "has_children: true" dans le yml de la page du niveau supérieur
-parent: 2. Fonctions du Droit
+parent: 3. Fonctions du Droit
 grand_parent: Chapitre 1 Leçon 1
 nav_order: 5
 published: true
 ---
-### 2.3. Comment la Justice fait-elle respecter le Droit ?
+### 3.3. Comment la Justice fait-elle respecter le Droit ?
 Explication du troisième texte de Henri Mazeaud
 
 {: .nouveau-title }

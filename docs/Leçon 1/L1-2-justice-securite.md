@@ -1,13 +1,13 @@
 ---
 layout: default
-title: 2.1. Justice et sécurité
+title: 3.1. Justice et sécurité
 # mettre "has_children: true" dans le yml de la page du niveau supérieur
-parent: 2. Fonctions du Droit
+parent: 3. Fonctions du Droit
 grand_parent: Chapitre 1 Leçon 1
 nav_order: 2
 published: true
 ---
-### 2.1. Le droit assure la justice et la sécurité
+### 3.1. Le droit assure la justice et la sécurité
 Explication du premier texte de Henri Mazeaud (**voir le complément page suivante**)
 
 {: .nouveau-title }

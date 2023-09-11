@@ -1,13 +1,13 @@
 ---
 layout: default
-title: 3.2. Les juridictions
+title: 2.2. Les juridictions
 # mettre "has_children: true" dans le yml de la page du niveau supérieur
-parent: 3. Activité - procès
+parent: 2. Activité - procès
 grand_parent: Chapitre 1 Leçon 1
 nav_order: 2
 published: true
 ---
-## 3.2. Les juridictions françaises
+## 2.2. Les juridictions françaises
 {: .no_toc }
 
 <details open markdown="block">
@@ -47,6 +47,16 @@ published: true
 ### Documents
 <br>
 
+#### Les ordres judiciaires : les différentes juridictions françaises
+
 ![ordre judiciaire](../../../dgemc/assets/img/ordre-judiciaire.png)
 
 {% pdf "../../assets/pdf/C1L1/juridictions.pdf" width=80% height=700px no_link %}
+
+#### Qu'est-ce qu'un procès d'assises ?
+
+{% pdf "../../assets/pdf/C1L1/fiche-assises.pdf" width=80% height=700px no_link %}
+
+#### Les différentes sanctions pénales
+
+{% pdf "../../assets/pdf/C1L1/fiche-sanctions.pdf" width=80% height=700px no_link %}
