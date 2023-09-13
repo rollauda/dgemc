@@ -31,7 +31,7 @@ published: true
 >- Isaia
 >- Maria Emilia
 >
-> **Affaire du bon juge Magneaud ;**
+> **Affaire du bon juge Magneaud :**
 >- Domenica
 >- Salomé
 >- Suzanne
