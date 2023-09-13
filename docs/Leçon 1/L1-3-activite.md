@@ -30,6 +30,7 @@ published: true
 >- Sophia
 >- Daniela
 >- Isaia
+-> Berenice
 >- Maria Emilia
 >
 > **Affaire du bon juge Magneaud :**
