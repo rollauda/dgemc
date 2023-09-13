@@ -15,11 +15,12 @@ published: true
 >- [L'affaire Sauvage](../Leçon%201/L1-1-sauvage.html)
 >- [L'affaire du bon juge Magneaud](../Leçon%201/L1-1-magnaud.html)
 >- [L'affaire Antigone](../Leçon%201/L1-1-antigone.html)
-> Chaque groupe étudie les textes à l'aide des questions puis présente son affaire à la classe :
+>
+> Chaque groupe étudie dans un premier temps les textes à l'aide des questions puis présente son affaire à la classe :
 >1. Exposer l'affaire (les faits)
 >2. Quel est l'intérêt de cette affaire ?
 >
-> - Vous pourrez adapter l'affaire au droit français d'aujourd'hui en changeant la victime et l'accusé de votre affaire
+> - Vous pourrez ensuite adapter l'affaire au droit français d'aujourd'hui en changeant la victime et l'accusé de votre affaire
 > - consulter le site [Légifrance](https://www.legifrance.gouv.fr/){:target="_blank"} pour chercher quels textes de loi sont concernés par votre affaire
 
 {: .nouveau-title }
