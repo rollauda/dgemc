@@ -1,13 +1,13 @@
 ---
 layout: default
-title: 2.2. Les juridictions
+title: 2.1. Les juridictions
 # mettre "has_children: true" dans le yml de la page du niveau supérieur
 parent: 2. Activité - procès
 grand_parent: Chapitre 1 Leçon 1
-nav_order: 2
+nav_order: 1
 published: true
 ---
-## 2.2. Les juridictions françaises
+## 2.1. Les juridictions françaises
 {: .no_toc }
 
 <details open markdown="block">
