@@ -19,7 +19,9 @@ published: true
 {:toc}
 </details>
 
-### Droit civil et pénal
+### Droit privé et public, droit civil et pénal
+
+|  ![schema](../../../dgemc/assets/img/schemadroit.png)    |
 
 {: .important-title }
 > DROIT CIVIL
@@ -36,7 +38,6 @@ published: true
 >
 > Les **juridictions de premier degré** sont les premières à rendre une décision. En cas de désaccord avec la décision rendue, une affaire peut être jugée une seconde fois par une **juridiction de second degré** : **cour d'appel** ou cour d'assises d'appel. Si la décision rendue par les juridictions de second degré n'est pas satisfaisante, il possible de **se pourvoir en cassation**, c'est-à-dire porter l'affaire devant la cour de cassation, qui ne juge pas le fond de l'affaire, mais la forme : elle vérifie si la décision judiciaire respecte le droit.
 
-|  ![schema](../../../dgemc/assets/img/schemadroit.png)    |
 
 ### Vidéos
 
