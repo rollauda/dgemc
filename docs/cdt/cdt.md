@@ -11,9 +11,9 @@ published: true
 | :------------------- | :-------------- | :-------- |
 | 01/09  | [Présentation de l'année](../Présentation/presentation.html) | ...     |
 | 04/09   | [C1-L1 Introduction](../Leçon%201/L1-intro.html) <br> [C1-L1 1. Trois affaires](../Leçon%201/L1-1-affaires.html)  | ...     |
-| 11/09   | [C1-L1 1. Trois affaires](../Leçon%201/L1-1-affaires.html) <br> [C1-L1 2. Activité : procès](../Leçon%201/L1-3-activite.html)    | ...     |
-| 18/09   | ...     | ...     |
-| 25/09   | ...     | ...     |
+| 11/09   | - [C1-L1 1. Trois affaires](../Leçon%201/L1-1-affaires.html) <br> - [C1-L1 2. Activité : procès](../Leçon%201/L1-3-activite.html) : les ≠ juridictions et tribunaux   | ...     |
+| 18/09   | [C1-L1 2. Activité : procès](../Leçon%201/L1-3-activite.html) : préparation des procès     | ...     |
+| 25/09   | [C1-L1 2. Activité : procès](../Leçon%201/L1-3-activite.html) : préparation des procès     | ...     |
 | 02/10   | ...     | ...     |
 | 09/10   | ...     | ...     |
 | 16/10   | ...     | ...     |
