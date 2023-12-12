@@ -9,6 +9,7 @@ published: true
 
 | Semaine     | Contenu     | Travaux |
 | :------------------- | :-------------- | :-------- |
+| 11/12   | [C1-L2 : Les sources du droit](../Leçon%202/L2-0.html)     | ...     |
 | 04/12   | [C1-L2 : Les sources du droit](../Leçon%202/L2-0.html)     | ...     |
 | 27/11   | 01/12 : conférence-débat sur le dopage     | ...     |
 | 20/11   | [Préparation de la conférence sur le dopage](../Conference/C0-1.html)     | ...     |
