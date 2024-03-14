@@ -9,14 +9,14 @@ published: true
 
 | Semaine     | Contenu     | Travaux |
 | :------------------- | :-------------- | :-------- |
-| 18/03   | [C1-L3 : Jeu de l'île, étape 5](../Leçon%203/L3.html)     | 
+| 18/03   | [C1-L3 : Jeu de l'île, étape 5](../Leçon%203/L3-3.html)     | 
 | 11/03  |  [C2-L4 : Représentation du procès Jacqueline Sauvage](../Leçon%204/L4.html)     | ...     |
 | 04/03  |  [C2-L4 : préparation procès Jacqueline Sauvage](../Leçon%204/L4.html)     | ...     |
 | Vacances d'hiver | ---------     | --------- |
 | 12/02   |- [C2-L4 : préparation procès Jacqueline Sauvage](../Leçon%204/L4.html) <br> [C1-L3 : Jeu de l'île, étape 5](../Leçon%203/L3.html)  | - Écriture du journal de l'île (évalué)    |
 | 05/02   | [C2-L4 : préparation procès Jacqueline Sauvage](../Leçon%204/L4.html)     | ...     |
-| 29/01   | [C1-L3 : Jeu de l'île, étapes 3 & 4](../Leçon%203/L3.html)     | Écriture du journal     |
-| 22/01   | [C1-L3 : Jeu de l'île, étapes 1 & 2](../Leçon%203/L3.html)     | Écriture du journal     |
+| 29/01   | [C1-L3 : Jeu de l'île, étapes 3](../Leçon%203/L3-2.html) et [étape 4](../Leçon%203/L3-3.html)    | Écriture du journal     |
+| 22/01   | [C1-L3 : Jeu de l'île, étapes 1 & 2](../Leçon%203/L3-2.html)     | Écriture du journal     |
 | 15/01   | ABSENCE PROFESSEUR      | ...     |
 | 08/01   | ABSENCE PROFESSEUR    | ...     |
 | Vacances de Noël   | ---------     | ---------     |
