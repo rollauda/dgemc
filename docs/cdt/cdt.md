@@ -9,7 +9,16 @@ published: true
 
 | Semaine     | Contenu     | Travaux |
 | :------------------- | :-------------- | :-------- |
-| 18/03   | [C1-L3 : Jeu de l'île, étape 5](../Leçon%203/L3-3.html)     | 
+| 27/05   | [C1-L3 : Jeu de l'île, étape 6](../Leçon%203/L3-4-0.html)     |  ...     |
+| 20/05   | [C1-L3 : Jeu de l'île, étape 6](../Leçon%203/L3-4-0.html)     |  ...     |
+| 13/05   | [C1-L3 : Jeu de l'île, étape 6](../Leçon%203/L3-4-0.html)     |  ...     |
+| 06/05   | [C1-L3 : Jeu de l'île, étape 5](../Leçon%203/L3-3.html)     |  ...     |
+|  Vacances de Printemps | ---------   |  ---------   |
+| 15/04   | [C1-L3 : Jeu de l'île, étape 5](../Leçon%203/L3-3.html)     |  ...     |
+| 08/04   | [C1-L3 : Jeu de l'île, étape 5](../Leçon%203/L3-3.html)     |  ...     |
+| 01/04   | [C1-L3 : Jeu de l'île, étape 5](../Leçon%203/L3-3.html)     |  ...     |
+| 25/03   | [C1-L3 : Jeu de l'île, étape 5](../Leçon%203/L3-3.html)     |  ...     |
+| 18/03   | [C1-L3 : Jeu de l'île, étape 5](../Leçon%203/L3-3.html)     |  ...     |
 | 11/03  |  [C2-L4 : Représentation du procès Jacqueline Sauvage](../Leçon%204/L4.html)     | ...     |
 | 04/03  |  [C2-L4 : préparation procès Jacqueline Sauvage](../Leçon%204/L4.html)     | ...     |
 | Vacances d'hiver | ---------     | --------- |
