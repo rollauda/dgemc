@@ -1,9 +1,9 @@
 title: DGEMC Conda
 description: Documents des leçons d'option DGEMC. Rolland Auda, La Condamine, Quito, Équateur.
 theme: just-the-docs
-baseurl: "/dgemc" # the subpath of your site, e.g. /blog
+baseurl: "/dgemc23" # the subpath of your site, e.g. /blog
 url: https://rollauda.github.io
-repository: rollauda/dgemc23 # for github-metadata
+repository: rollauda/dgemc # for github-metadata
 
 aux_links:
   Accueil-Auda: https://rollauda.github.io
